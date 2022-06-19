@@ -1,0 +1,38 @@
+.container{
+	width :1100px;
+	height :780px;
+	padding-top : 20px;
+	padding-left : 30px;
+    margin : auto;
+	border : 10px double green;
+}
+.longbox{
+	width :960px;
+	height :100px;
+}
+.box{
+	background :grey;
+	opacity:1;
+	float :left;
+}
+.smallbox{
+	margin-top :20px;
+	margin-bottom :30px;
+	width :220px;
+	height :220px;
+}
+.ml-10{
+	margin-left :30px;
+}
+.ml-20{
+    margin-left :30px;	
+}
+img{
+	margin-top :20px;
+	margin-bottom : 20px;
+	opacity : 0.6;
+	border-radius : 20px;
+}
+img:hover{
+	opacity : 3;
+}
